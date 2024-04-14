@@ -1,6 +1,6 @@
-# Stack
+# PyStack
 
-Stack type implementation.
+A simple stack implementation in Python.
 
 ## Quick start
 
